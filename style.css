@@ -39,9 +39,11 @@ h1 {
 .btn-primary:hover {
 		background-color: #FF7800;
 		border-color: #FF7800;
-		transform:scale(1.1, 1.1);
-    	-webkit-transform:scale(1.1, 1.1);
+		-webkit-transform:scale(1.1, 1.1);
     	-moz-transform:scale(1.1, 1.1);
+    	-o-transform:scale(1.1, 1.1);
+		transform:scale(1.1, 1.1);
+    	
 }
 
 
